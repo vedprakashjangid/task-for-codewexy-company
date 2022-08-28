@@ -1,0 +1,42 @@
+.dropdown__container{
+    background-color: rgb(58, 226, 212);
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    min-height:200px
+}
+.dropdown__container form label{
+     font-size: 24px ;
+}
+.dropdown__container form #headTail{
+    width: 400px;
+    height: 40px;
+    font-size: 24px;
+    color: blue;
+}
+form input{
+    display: block;
+    margin: auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: rgb(217, 43, 78);
+    outline: none;
+    border: 2px solid crimson;
+    margin-top: 60px;
+    margin-right: 30px;
+    border-radius: 6px;
+    border: none;
+    box-shadow: none;
+    background-color: white;
+
+}
+form input:hover{
+    background-color: crimson;
+    color: white;
+}
+.output__container{
+    width: 500px;
+    height: 400px;
+    background-color: grey;
+    margin: 40px auto;
+}
