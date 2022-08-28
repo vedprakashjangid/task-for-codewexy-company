@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/task-for-codewexy-company/static/css/main.b69ec361.css",
+    "main.js": "/my-app/task-for-codewexy-company/static/js/main.09461547.js",
+    "static/js/787.28098ea2.chunk.js": "/my-app/task-for-codewexy-company/static/js/787.28098ea2.chunk.js",
+    "index.html": "/my-app/task-for-codewexy-company/index.html",
+    "main.b69ec361.css.map": "/my-app/task-for-codewexy-company/static/css/main.b69ec361.css.map",
+    "main.09461547.js.map": "/my-app/task-for-codewexy-company/static/js/main.09461547.js.map",
+    "787.28098ea2.chunk.js.map": "/my-app/task-for-codewexy-company/static/js/787.28098ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69ec361.css",
+    "static/js/main.09461547.js"
+  ]
+}
