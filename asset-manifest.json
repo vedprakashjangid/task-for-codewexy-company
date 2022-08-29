@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/codewexytask/static/css/main.b69ec361.css",
-    "main.js": "/my-app/codewexytask/static/js/main.21dde8dc.js",
-    "static/js/787.28098ea2.chunk.js": "/my-app/codewexytask/static/js/787.28098ea2.chunk.js",
-    "index.html": "/my-app/codewexytask/index.html",
-    "main.b69ec361.css.map": "/my-app/codewexytask/static/css/main.b69ec361.css.map",
-    "main.21dde8dc.js.map": "/my-app/codewexytask/static/js/main.21dde8dc.js.map",
-    "787.28098ea2.chunk.js.map": "/my-app/codewexytask/static/js/787.28098ea2.chunk.js.map"
+    "main.css": "/my-app/codewexy/static/css/main.b69ec361.css",
+    "main.js": "/my-app/codewexy/static/js/main.67d42334.js",
+    "static/js/787.28098ea2.chunk.js": "/my-app/codewexy/static/js/787.28098ea2.chunk.js",
+    "index.html": "/my-app/codewexy/index.html",
+    "main.b69ec361.css.map": "/my-app/codewexy/static/css/main.b69ec361.css.map",
+    "main.67d42334.js.map": "/my-app/codewexy/static/js/main.67d42334.js.map",
+    "787.28098ea2.chunk.js.map": "/my-app/codewexy/static/js/787.28098ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b69ec361.css",
-    "static/js/main.21dde8dc.js"
+    "static/js/main.67d42334.js"
   ]
 }
